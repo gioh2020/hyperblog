@@ -4,6 +4,11 @@ body
     text-align: center;
     font-family: "Arial";
 }
+#cabecera
+{
+    background: brown;
+    color: darkgoldenrod;
+}
 #container
 {
     width: 70%;
