@@ -6,8 +6,13 @@ body
 }
 #cabecera
 {
+<<<<<<< HEAD
     background: rgb(35, 159, 55);
     color: rgb(133, 129, 119);
+=======
+    background: rgb(187, 163, 163);
+    color: darkgoldenrod;
+>>>>>>> cabecera
 }
 #container
 {
